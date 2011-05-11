@@ -1,7 +1,7 @@
 package com.mycompany.app;
 
 /**
- * Hello world!
+ * Hello world! here i come
  *
  */
 import org.apache.log4j.Logger;
