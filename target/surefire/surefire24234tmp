@@ -1,0 +1,5 @@
+#surefire
+#Thu May 05 15:00:10 CDT 2011
+user.dir=C\:\\myProgramFiles\\eclipse Helios\\workspace\\my-app
+localRepository=C\:\\Documents and Settings\\duonminh\\.m2\\repository
+basedir=C\:\\myProgramFiles\\eclipse Helios\\workspace\\my-app
